@@ -1,0 +1,15 @@
+# Large omics / archives (GitHub 100MB limit)
+brca_metabric.tar.gz
+brca_metabric/brca_metabric/data_mrna_illumina_microarray.txt
+brca_metabric/brca_metabric/data_mrna_illumina_microarray_zscores_ref_diploid_samples.txt
+brca_metabric/brca_metabric/data_methylation_promoters_rrbs.txt
+brca_metabric/brca_metabric/data_cna.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.tmp
+~$*
