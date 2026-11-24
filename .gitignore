@@ -13,3 +13,11 @@ Desktop.ini
 .idea/
 *.tmp
 ~$*
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local ML logs / caches
+catboost_info/
+.ipynb_checkpoints/

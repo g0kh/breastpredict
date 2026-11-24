@@ -1,0 +1,35 @@
+{
+  "m1_best": "TOP7_perm + HybridVote_RFLRXGB",
+  "m1_auc": 0.6855486345356593,
+  "m1_delta": 0.00489483958639414,
+  "m2b_best": "FULL_13 + Cat_reg",
+  "m2b_auc": 0.7577922827144011,
+  "m2b_delta": 0.008100306581615091,
+  "top_features_m1": [
+    "pozitif_ln",
+    "tumor_boyutu_mm",
+    "radyoterapi",
+    "kemoterapi",
+    "yas",
+    "cerrahi",
+    "grade"
+  ],
+  "top_features_m2b": [
+    "tumor_boyutu_mm",
+    "pozitif_ln",
+    "pr",
+    "yas",
+    "grade",
+    "kemoterapi",
+    "cerrahi"
+  ],
+  "consensus7": [
+    "pozitif_ln",
+    "tumor_boyutu_mm",
+    "yas",
+    "kemoterapi",
+    "radyoterapi",
+    "grade",
+    "pr"
+  ]
+}

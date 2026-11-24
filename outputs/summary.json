@@ -1,0 +1,12 @@
+{
+  "m1_best": "RandomForest",
+  "m1_auc": 0.6806537949492651,
+  "m2a_best": "RandomForest",
+  "m2a_macro_f1": 0.22708774082381158,
+  "m2b_best": "SVM_RBF",
+  "m2b_auc": 0.749691976132786,
+  "m2s_best": "RandomSurvivalForest",
+  "m2s_cindex": 0.6858777344851152,
+  "m3_best": "RandomForest",
+  "m3_macro_f1": 0.4295212060394247
+}

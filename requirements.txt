@@ -1,0 +1,48 @@
+﻿# Core data
+numpy
+pandas
+openpyxl
+xlsxwriter
+
+# Machine learning (multi-algorithm)
+scikit-learn
+xgboost
+lightgbm
+catboost
+imbalanced-learn
+scikit-survival
+joblib
+optuna
+shap
+
+# Statistics / survival / academic
+scipy
+statsmodels
+lifelines
+pingouin
+
+# Modern / academic figures & infographics
+matplotlib
+seaborn
+plotly
+kaleido
+scienceplots
+adjustText
+pillow
+yellowbrick
+missingno
+squarify
+pywaffle
+umap-learn
+scikit-plot
+matplotlib-venn
+
+# Documents
+python-docx
+
+# Notebook / utilities
+jupyter
+ipykernel
+notebook
+tqdm
+tabulate
